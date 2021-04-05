@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/rigelrozanski/common/parse"
+	"github.com/andrewlunde/common/parse"
 )
 
 func main() {

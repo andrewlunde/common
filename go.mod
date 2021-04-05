@@ -1,4 +1,4 @@
-module github.com/rigelrozanski/common
+module github.com/andrewlunde/common
 
 go 1.12
 
